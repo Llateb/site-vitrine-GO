@@ -129,7 +129,7 @@ footer #contact{
     color: rgb(181, 181, 181);
 }
 
-@media screen and (max-width:680px){
+@media screen and (max-width:700px){
     nav .onglets {
         margin-left: 0px;
         margin-bottom: 20px;
